@@ -1,0 +1,17 @@
+{
+  "name": "snail-bookmarker",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "node ."
+  },
+  "keywords": [],
+  "author": "Meera Sundar",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "pg": "^8.4.2"
+  },
+  "devDependencies": {},
+  "description": ""
+}
